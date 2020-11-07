@@ -26,13 +26,14 @@ The data comes from a csv file that contains 501 records of different customers.
 
 ### Features
 
-The following are the features we'll use to predict our target variable (Car Purchase Amount).
+The following are the features we'll use to predict our target variable (the total amount).
 
 * Gender	
 * Age	
 * Annual Salary	
 * Credit Card Debt	
 * Net Worth
+* Car Purchase Amount
 
 ## Models
 
