@@ -8,7 +8,6 @@ This project uses machine learning models to predict a customer's purchase amoun
 * [Dataset](#dataset)
 * [Features](#features)
 * [Models](#models)
-* [Graphs](#graphs)
 * [Dependencies](#dependencies)
 
 ## General info 
